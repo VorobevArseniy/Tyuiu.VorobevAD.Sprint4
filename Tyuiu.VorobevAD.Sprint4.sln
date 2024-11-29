@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint4.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint4.Task2.V30.Lib", "Tyuiu.VorobevAD.Sprint4.Task2.V30.Lib\Tyuiu.VorobevAD.Sprint4.Task2.V30.Lib.csproj", "{167479BC-FD63-4874-A336-CDAAD8792ECF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint4.Task3.V19.Lib", "Tyuiu.VorobevAD.Sprint4.Task3.V19.Lib\Tyuiu.VorobevAD.Sprint4.Task3.V19.Lib.csproj", "{FF489A0D-FFB9-491C-82A7-D59E777ACF6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{167479BC-FD63-4874-A336-CDAAD8792ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{167479BC-FD63-4874-A336-CDAAD8792ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{167479BC-FD63-4874-A336-CDAAD8792ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF489A0D-FFB9-491C-82A7-D59E777ACF6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF489A0D-FFB9-491C-82A7-D59E777ACF6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF489A0D-FFB9-491C-82A7-D59E777ACF6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF489A0D-FFB9-491C-82A7-D59E777ACF6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
