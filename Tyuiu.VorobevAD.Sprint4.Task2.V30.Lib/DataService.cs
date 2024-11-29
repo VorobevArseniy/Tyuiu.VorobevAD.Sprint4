@@ -6,9 +6,9 @@ public class DataService : tyuiu.cources.programming.interfaces.Sprint4.ISprint4
 {
 	public int Calculate(int[] array)
 	{
-		int acc = 1;
+		int acc = array[0];
 
-		for (int i = 0; i < array.Length; ++i)
+		for (int i = 1; i < array.Length; ++i)
 		{
 			if (i % 2 != 0) acc *= array[i];
 		}
