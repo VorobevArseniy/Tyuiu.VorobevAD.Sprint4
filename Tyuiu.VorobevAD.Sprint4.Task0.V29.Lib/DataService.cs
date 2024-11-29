@@ -1,6 +1,4 @@
-﻿using tyuiu.cources.programming.interfaces.Sprint4;
-
-namespace Tyuiu.VorobevAD.Sprint4.Task0.V29.Lib;
+﻿namespace Tyuiu.VorobevAD.Sprint4.Task0.V29.Lib;
 
 public class DataService : tyuiu.cources.programming.interfaces.Sprint4.ISprint4Task0V29
 {
