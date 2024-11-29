@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint4.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint4.Task4.V16.Lib", "Tyuiu.VorobevAD.Sprint4.Task4.V16.Lib\Tyuiu.VorobevAD.Sprint4.Task4.V16.Lib.csproj", "{84A7C048-5BBD-4E01-9534-3AD7DEACD38E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VorobevAD.Sprint4.Task5.V6.Lib", "Tyuiu.VorobevAD.Sprint4.Task5.V6.Lib\Tyuiu.VorobevAD.Sprint4.Task5.V6.Lib.csproj", "{2F618E78-BEBA-4FE0-A9E7-2E85AEBEBA16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{84A7C048-5BBD-4E01-9534-3AD7DEACD38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84A7C048-5BBD-4E01-9534-3AD7DEACD38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84A7C048-5BBD-4E01-9534-3AD7DEACD38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F618E78-BEBA-4FE0-A9E7-2E85AEBEBA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F618E78-BEBA-4FE0-A9E7-2E85AEBEBA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F618E78-BEBA-4FE0-A9E7-2E85AEBEBA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F618E78-BEBA-4FE0-A9E7-2E85AEBEBA16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
