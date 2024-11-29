@@ -8,9 +8,9 @@ public class DataService : tyuiu.cources.programming.interfaces.Sprint4.ISprint4
 	{
 		int acc = 1;
 
-		for (int i = 1; i < array.Length; ++i)
+		foreach (int i in array)
 		{
-			if (i % 2 != 0) acc *= array[i];
+			if (i % 2 != 0) acc *= i;
 		}
 
 		return acc;
