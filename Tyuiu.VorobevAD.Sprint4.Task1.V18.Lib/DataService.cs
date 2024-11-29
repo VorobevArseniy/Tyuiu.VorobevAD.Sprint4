@@ -7,7 +7,7 @@ public class DataService : ISprint4Task1V18
 	public int Calculate(int[] array)
 	{
 		int acc = 0;
-		for (int i = 0; i < array.Length; ++i)
+		for (int i = 0; i <= array.Length; ++i)
 		{
 			if (i % 2 != 0) acc += array[i];
 		}
